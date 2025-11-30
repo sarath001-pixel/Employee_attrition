@@ -39,3 +39,13 @@ Final Conclusion
 
 The company is losing young, low-income, overworked employees at higher rates.  
 Workload, salary, and early-career instability are major contributors.
+
+Tools
+Jupyter Notebook
+Python
+Git & GitHub
+Python Libraries
+pandas – data loading & manipulation
+numpy – numerical operations
+matplotlib – visualizations
+seaborn – advanced visualizations
